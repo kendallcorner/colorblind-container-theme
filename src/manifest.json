@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Colorblind colors for multi-account-containers",
+
+  "description": "To be used with multi-account-containers add on. Changes colors of containers to colorblind friendly colors.",
+
+  "theme": {
+
+  },
+
+  "theme_experiment": {
+    "stylesheet": "style.css"
+  }
+
+}

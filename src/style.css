@@ -1,0 +1,39 @@
+.identity-color-blue {
+  --identity-tab-color: #0072b2;
+  --identity-icon-color: #0072b2;
+}
+
+.identity-color-turquoise {
+  --identity-tab-color: #56b4e9;
+  --identity-icon-color: #56b4e9;
+}
+
+.identity-color-green {
+  --identity-tab-color: #009e73;
+  --identity-icon-color: #009e73;
+}
+
+.identity-color-yellow {
+  --identity-tab-color: #f0e442;
+  --identity-icon-color: #f0e442;
+}
+
+.identity-color-orange {
+  --identity-tab-color: #e69f00;
+  --identity-icon-color: #e69f00;
+}
+
+.identity-color-red {
+  --identity-tab-color: #d55e00;
+  --identity-icon-color: #d55e00;
+}
+
+.identity-color-pink {
+  --identity-tab-color: #000000;
+  --identity-icon-color: #000000;
+}
+
+.identity-color-purple {
+  --identity-tab-color: #cc79a7;
+  --identity-icon-color: #cc79a7;
+}
